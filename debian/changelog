@@ -1,3 +1,9 @@
+yunohost-admin (13.0.0~alpha1) unstable; urgency=low
+
+  - Bump version for Debian 13 Trixie.
+
+ -- Félix Piédallu <felix@piedallu.me>  Thu, 25 Sep 2025 20:41:48 +0200
+
 yunohost-admin (12.1.11) stable; urgency=low
 
   - tools>disks: fix missing breadcrumbs (2b95b230)
@@ -219,7 +225,7 @@ yunohost (12.0.0) unstable; urgency=low
   - Tmp changelog to prepare Bookworm
 
  -- Tagada <tagada@cant.at>  Fri, 12 May 2023 16:20:28 +0000
- 
+
 yunohost-admin (11.3.0) stable; urgency=low
 
   - Bump version for 11.3 release
@@ -542,7 +548,7 @@ yunohost-admin (11.0.7) testing; urgency=low
   - [i18n] Translations updated for Spanish, Catalan, Galician, Russian, German, Basque and French
 
   Thanks to all contributors <3 ! (JimScope, retiolus, Alexandre Aubin, ljf, xmgz, cheredin, chwonl, punkrockgirl)
-  
+
  -- tituspijean <titus+yunohost@pijean.ovh>  Tue, 17 May 2022 23:49:00 +0200
 
 yunohost-admin (11.0.6) testing; urgency=low
@@ -1060,8 +1066,8 @@ yunohost-admin (3.7.1.1) stable; urgency=low
 yunohost-admin (3.7.1) stable; urgency=low
 
    - [fix] Misc fixes for action / config panel (#289, #282)
-   - [enh] Add a note about some apps that need to be exposed to visitors for external client to work 
- 
+   - [enh] Add a note about some apps that need to be exposed to visitors for external client to work
+
  -- Alexandre Aubin <alex.aubin@mailoo.org>  Thu, 9 Apr 2020 16:09:00  +0000
 
 yunohost-admin (3.7.0.4) stable; urgency=low
@@ -1124,14 +1130,14 @@ yunohost-admin (3.6.4) stable; urgency=low
   - [enh] Bolder app names in app install list (#253)
 
   Thanks to all contributors <3 ! (Aleks, Bram)
- 
+
  -- Alexandre Aubin <alex.aubin@mailoo.org>  Thu, 04 Jul 2019 23:30:00  +0000
 
 yunohost-admin (3.6.2) testing; urgency=low
 
   - [mod] Move applist management to Tools section (#248)
   - [enh] Display from/to version on upgrade screen (#252)
-  - [i18n] Improve translations for Catalan, Occitan 
+  - [i18n] Improve translations for Catalan, Occitan
 
   Thanks to all contributors <3 ! (Aleks, Quentí, xaloc33)
 
@@ -1172,7 +1178,7 @@ yunohost-admin (3.5.2) stable; urgency=low
   - [i18n] Improve translations for Catalan, Arabic, Italian, Bengali
 
   Thanks to all contributors (Aleks, Xaloc, BoF, silkevicious, mytechpro) <3 !
- 
+
  -- Alexandre Aubin <alex.aubin@mailoo.org>  Wed, 10 Apr 2019 02:00:00 +0000
 
 yunohost-admin (3.5.1) testing; urgency=low
@@ -1214,7 +1220,7 @@ yunohost-admin (3.4.1) testing; urgency=low
   * [i18n] Misc orthotypograhy
 
   Thanks to all contributors (Jean-Baptiste, Laurent Peuch, chateau) <3 !
- 
+
  -- Alexandre Aubin <alex.aubin@mailoo.org>  Thu, 17 Jan 2019 22:03:00 +0000
 
 yunohost-admin (3.4.0.1) testing; urgency=low
